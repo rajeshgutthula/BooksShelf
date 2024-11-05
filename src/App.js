@@ -1,6 +1,6 @@
 import Login from "./components/LoginForm/Login";
 import Register from "./components/RegistrationForm/Register";
-import { BrowserRouter as Router,Route,Routes } from "react-router-dom";
+import { HashRouter as Router,Route,Routes } from "react-router-dom";
 import HomePage from "./components/HomePage/HomePage";
 import Bookshelves from "./components/BookShelves/BookShelves";
 import BookDetail from "./components/BookDetails/BookDetail";
