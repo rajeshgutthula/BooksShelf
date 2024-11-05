@@ -1,5 +1,6 @@
 {
-  "name": "ui",
+  "name": "BooksShelf",
+  "homepage": "https://rajeshgutthula.github.io/BooksShelf",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
