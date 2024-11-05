@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BooksShelf/static/css/main.0da813ad.css",
-    "main.js": "/BooksShelf/static/js/main.b97b7600.js",
+    "main.js": "/BooksShelf/static/js/main.a9feeb76.js",
     "static/js/453.1648c77e.chunk.js": "/BooksShelf/static/js/453.1648c77e.chunk.js",
     "static/media/slick.svg": "/BooksShelf/static/media/slick.7ba97953187dc2907930.svg",
     "static/media/slick.eot": "/BooksShelf/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -9,11 +9,11 @@
     "static/media/slick.woff": "/BooksShelf/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/BooksShelf/index.html",
     "main.0da813ad.css.map": "/BooksShelf/static/css/main.0da813ad.css.map",
-    "main.b97b7600.js.map": "/BooksShelf/static/js/main.b97b7600.js.map",
+    "main.a9feeb76.js.map": "/BooksShelf/static/js/main.a9feeb76.js.map",
     "453.1648c77e.chunk.js.map": "/BooksShelf/static/js/453.1648c77e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0da813ad.css",
-    "static/js/main.b97b7600.js"
+    "static/js/main.a9feeb76.js"
   ]
 }
